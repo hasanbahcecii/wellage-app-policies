@@ -18,4 +18,4 @@ Wellage kullanıcılarının hesaplarını ve ilişkili verilerini silme hakkı 
 
 ## Ek Seçenek
 - Kullanıcılar, hesaplarını silmeden de belirli verilerinin silinmesini talep edebilir.
-- Bu talep için bizimle **support@wellage.com** üzerinden iletişime geçebilirsiniz.
+- Bu talep için bizimle **hasan.bahceci021@gmail.com** üzerinden iletişime geçebilirsiniz.
