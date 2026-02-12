@@ -20,7 +20,7 @@ Wellage olarak gizliliğinizi önemsiyoruz. Bu politika, uygulamamızın kullan�
 
 ## 4. Kullanıcı Hakları
 - Verilerinize erişme, düzeltme veya silme talebinde bulunabilirsiniz.
-- Bu talepler için bizimle **support@wellage.com** üzerinden iletişime geçebilirsiniz.
+- Bu talepler için bizimle **hasan.bahceci021@gmail.com** üzerinden iletişime geçebilirsiniz.
 
 ## 5. Çocukların Gizliliği
 - Wellage 13 yaş altı çocuklara yönelik değildir.
